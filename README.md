@@ -17,4 +17,4 @@ Technology
   - Leva - Parameter tweak UI
   - Web Audio API - Audio player
   - Three.js - Audio analyzer module
-  - styled-components - CSS-in-JS styling and animations
+  - styled-components - CSS-in-JS styling
